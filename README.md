@@ -1,4 +1,4 @@
-#Amazon Sales Analysis with SQL 
+**Amazon Sales Analysis with SQL**
 
 I cleaned and analyzed 2025 Amazon Sales Data using SQL to uncover customer behavior, product performance, and sales trends. 
 
